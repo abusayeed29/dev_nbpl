@@ -1,0 +1,7 @@
+.bg-light2{
+    background: rgb(158,22,46);
+    background: linear-gradient(90deg, rgb(141, 20, 42) 3%, rgba(194,31,59,1) 35%, rgba(172,27,52,1) 100%);
+}
+.footer .company-sub-menu li a {
+    color: #ffffff !important;
+}

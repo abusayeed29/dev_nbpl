@@ -1,0 +1,32 @@
+/* 
+// 1. General
+*/
+
+
+a {
+    text-decoration: none !important;
+    outline: none;
+}
+body {
+    font-family: $font-primary;
+    color: $dark;
+    background: $body-bg;
+    font-size: 15px;
+}
+p {
+    line-height: 1.8;
+}
+
+.image_effect img {
+	vertical-align: top;
+	max-width: 100%;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	transition: all 0.3s;
+}
+.image_effect:hover img{
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+}
+

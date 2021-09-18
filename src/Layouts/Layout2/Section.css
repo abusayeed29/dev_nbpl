@@ -1,0 +1,19 @@
+/* .typewrapper-1{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.Typewriter__cursor{
+    font-size: 50px;
+    color:#fff;
+} */
+.caption{
+    position: absolute;
+    z-index: 1000;
+    top: 40%;
+    color: #fff;
+    justify-content: center;
+}
+.caption h3{
+    font-size: 45px;
+    font-weight: 400;
+}
