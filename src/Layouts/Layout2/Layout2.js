@@ -26,7 +26,6 @@ class Layout2 extends Component {
                 { id: 4 , idnm : "features", navheading: "Products" },
                 { id: 5 , idnm : "clients", navheading: "Clients" },
                 { id: 6 , idnm : "machineries", navheading: "Machineries" },
-                // { id: 7 , idnm : "contact", navheading: "Contact" },
             ],
             pos : document.documentElement.scrollTop,
             imglight : true,

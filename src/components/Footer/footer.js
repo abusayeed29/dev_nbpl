@@ -38,13 +38,13 @@ class Footer extends Component {
                             <Col className="text-center">
                                 
                                         <h4 className="footer-list-title text-white mb-3">Stay Connected</h4>
-                                        <p className="text-white f-14">Address: H # 28/A, R # 83, Gulshan - 2, Dhaka - 1212</p>
-                                        <p className="text-white mb-2">EMail: info@navana-nbpl.com</p>
+                                        <p className="text-white f-14">Address: H # 10/A, R # 90, Gulshan - 2, Dhaka - 1212</p>
+                                        <p className="text-white mb-2">Email: info@navana-nbpl.com</p>
                                         <h6 className="text-white font-weight-normal">Phone: +88 01708466400, +88 01708466404</h6>
                                         <ul className="list-unstyled footer-social-list mt-4">
-                                            <li className="list-inline-item"><Link to="#"><i className="mdi mdi-facebook"></i></Link></li>
-                                            <li className="list-inline-item"><Link to="#"><i className="mdi mdi-instagram"></i></Link></li>
-                                            <li className="list-inline-item"><Link to="#"><i className="mdi mdi-linkedin"></i></Link></li>
+                                            <li className="list-inline-item"><a href="https://www.facebook.com/navanabpl" target="_blank"><i className="mdi mdi-facebook"></i></a></li>
+                                            <li className="list-inline-item"><a href="#"><i className="mdi mdi-instagram"></i></a></li>
+                                            <li className="list-inline-item"><a href="#"><i className="mdi mdi-linkedin"></i></a></li>
                                         </ul>
                                    
                             </Col>

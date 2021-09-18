@@ -4,7 +4,7 @@ import {Slide, Zoom, Flip} from "react-reveal";
 
 //Import Section Title
 import SectionTitle from "../common/section-title";
-import qualityimg from "../../assets/images/equipment.jpg";
+import qualityimg from "../../assets/images/about.jpg";
 
 class About extends Component {
 
