@@ -17,3 +17,14 @@
     font-size: 45px;
     font-weight: 400;
 }
+
+@media (min-width: 200px) and (max-width: 768px) {
+    .caption h3{
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .momt-60{
+        margin-top: 60px;
+    }
+
+}

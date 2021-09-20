@@ -19,7 +19,7 @@ class Counter extends Component {
     render() {
         return (
             <React.Fragment>
-            <section className="section counter-bg" id="counter-bg" style={{background : `url(${counterbg}) center center`, backgroundSize:'cover', backgroundPosition:'relative', backgroundAttachment:'fixed', minHeight:'250px', overflow:'hidden'}}>
+            <section className="section counter-bg" id="counter-bg" style={{background : `url(${counterbg}) center center`, backgroundSize:'cover', backgroundPosition:'relative', backgroundAttachment:'fixed', minHeight:'300px', overflow:'hidden'}}>
                 <div className="bg-overlay op-75"></div>
                 <Container>
                     {/* <Row className="justify-content-center">

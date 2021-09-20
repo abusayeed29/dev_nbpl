@@ -26,7 +26,7 @@ class Section extends Component {
 
         return (
             <React.Fragment>
-                <section className="position-relative align-items-center bg-gradient-primary" id="home">
+                <section className="position-relative align-items-center bg-gradient-primary momt-60" id="home">
                     <div className="hero-2-bg-overlay"></div>
 
                     <Carousel fade>

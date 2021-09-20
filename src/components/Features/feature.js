@@ -84,7 +84,7 @@ class Features extends Component {
                             <Col md={{size:6, offset:1}}>
                                 <div className="features-box mt-5 mt-sm-0 mb-4 ">
                                     <h5 className="text-dark font-weight-normal mb-3 pt-3">Raw Materials for RMC</h5>
-                                    <p className="text-muted mb-3 f-15">
+                                    <p className="mb-3 f-15">
                                         <ul>
                                             <li>Cement</li>
                                             <li>20 mm downgraded stone chips</li>
@@ -103,7 +103,7 @@ class Features extends Component {
                             <Col md={{size:6}}>
                                 <div className="features-box mt-5 mt-sm-0 mb-4">
                                     <h5 className="text-dark font-weight-normal mb-3 pt-3">Raw Materials for Pavement Tiles</h5>
-                                    <p className="text-muted mb-3 f-15">
+                                    <p className="mb-3 f-15">
                                         <ul>
                                             <li>Cement</li>
                                             <li>12 mm downgraded stone chips</li>
